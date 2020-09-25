@@ -1,0 +1,7 @@
+.env
+node_modules
+public
+content
+data
+resources
+npm-debug.log
