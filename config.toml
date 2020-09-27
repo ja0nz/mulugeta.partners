@@ -1,4 +1,29 @@
-baseURL = "http://example.org/"
+baseURL = "http://mulugeta.partners/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mulugeta 🖊 Partners | Africa Cosultants"
 theme = "hugo-serif-theme"
+
+[params]
+  [params.logo]
+  mobile = "images/logo-mobile.svg"
+  desktop_height = "36px"
+  desktop = "images/logo.svg"
+  alt = "Mulugeta 🖊 Partners"
+
+[menu]
+  # Main Menu
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+      weight = 1
+
+  [[menu.main]]
+      name = "Team"
+      url = "/team/"
+      weight = 2
+
+[params.footer]
+    copyright_text = '<a href="/legal">Legal notice</a>'
+
+[markup.goldmark.renderer]
+unsafe = true
