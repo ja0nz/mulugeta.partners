@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="110.73909mm"
+   height="14.630781mm"
+   viewBox="0 0 110.73909 14.630781"
+   version="1.1"
+   id="svg3962"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs3956" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="242.21365"
+     inkscape:cy="114.94771"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="951"
+     inkscape:window-height="1047"
+     inkscape:window-x="2567"
+     inkscape:window-y="2"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3959">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.548982,-179.44969)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.76089668px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56902242"
+       x="26.573938"
+       y="187.51973"
+       id="text3846"><tspan
+         sodipodi:role="line"
+         id="tspan3844"
+         x="26.573938"
+         y="187.51973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.62175083px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.56902242">Mulugeta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.76089668px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56902242"
+       x="94.670433"
+       y="187.71669"
+       id="text3850"><tspan
+         sodipodi:role="line"
+         id="tspan3848"
+         x="94.670433"
+         y="187.71669"
+         style="font-size:10.62175083px;stroke-width:0.56902242">Partners</tspan></text>
+    <path
+       id="path3899"
+       d="m 88.23724,189.49243 -3.819831,3.81955 c -0.08108,0.0813 -0.130544,0.19399 -0.130544,0.31786 0,0.24774 0.200655,0.45063 0.450731,0.45063 0.06538,0 0.126027,-0.0129 0.182374,-0.0383 0,0 6.364162,-2.75837 6.436251,-2.7923 0.148609,-0.0673 0.263668,-0.19808 0.308767,-0.36043 l 1.030004,-3.71152 0.207321,0.20495 c 0.216161,0.21636 0.565596,0.21636 0.78167,0 0.216569,-0.21631 0.216569,-0.56579 0,-0.7819 l -3.175156,-3.17544 c -0.216096,-0.21631 -0.565638,-0.21631 -0.781713,0 -0.216569,0.21631 -0.216569,0.56581 0,0.78191 l 0.204956,0.20517 -3.718385,1.03435 c -0.162373,0.0475 -0.29296,0.16452 -0.360619,0.31779 l -2.787654,6.43191 c -0.02258,0.054 -0.03613,0.1127 -0.03613,0.17571 0,0.25018 0.202805,0.45073 0.45073,0.45073 0.128608,0 0.243388,-0.052 0.324531,-0.13743 l 3.812949,-3.81301 c -0.05183,-0.13312 -0.08108,-0.27515 -0.08108,-0.42608 0,-0.62192 0.504862,-1.12679 1.126826,-1.12679 0.621877,0 1.126739,0.50487 1.126739,1.12679 0,0.62194 -0.504862,1.12682 -1.126739,1.12682 -0.150975,0 -0.292939,-0.0292 -0.425934,-0.0811 z"
+       inkscape:connector-curvature="0"
+       style="clip-rule:evenodd;display:inline;fill:#ff4400;fill-rule:evenodd;stroke-width:0.02480397;fill-opacity:1" />
+  </g>
+</svg>
