@@ -1,0 +1,11 @@
+{
+  "name": "mulugeta.partners",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ja0nz/mulugeta.partners.git",
+  "author": "Ja0nz <mail@ja.nz>",
+  "license": "MIT",
+  "devDependencies": {
+    "@sanity/cli": "^1.150.7"
+  }
+}
