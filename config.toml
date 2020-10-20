@@ -1,6 +1,6 @@
 baseURL = "http://mulugeta.partners/"
 languageCode = "en-us"
-title = "Mulugeta 🖊 Partners | Africa Cosultants"
+title = "Mulugeta 🖊 Partners | Africa Consultants"
 theme = "hugo-serif-theme"
 
 [params]
@@ -9,6 +9,17 @@ theme = "hugo-serif-theme"
   desktop_height = "36px"
   desktop = "images/logo.svg"
   alt = "Mulugeta 🖊 Partners"
+
+  [params.homepage_meta_tags]
+    meta_description = "We are a multisector business and investment engagement aspiring to convene businesses from overseas especially Europe and USA to businesses in Ethiopia"
+    meta_og_title = "Mulugeta 🖊 Partners | Africa Consultants"
+    meta_og_type = "website"
+    meta_og_url = "https://mulugeta.partners"
+    meta_og_image = "https://mulugeta.partners/images/logo-mobile.svg"
+    meta_og_description = "We are a multisector business and investment engagement aspiring to convene businesses from overseas especially Europe and USA to businesses in Ethiopia"
+    meta_twitter_card = ""
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
 
 [menu]
   # Main Menu
